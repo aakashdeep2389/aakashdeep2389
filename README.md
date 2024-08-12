@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN, DSA, Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://aakashdeep2389.github.io/portfolio/](https://aakashdeep2389.github.io/portfolio/)
+<!-- - 👨‍💻 All of my projects are available at [https://aakashdeep2389.github.io/portfolio/](https://aakashdeep2389.github.io/portfolio/)-->
 
 - 💬 Ask me about **React, MERN**
 

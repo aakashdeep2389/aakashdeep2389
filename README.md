@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning DSA, Algorithms**
+- 🌱 I’m currently learning **DSA, Algorithms**
 
 <!-- - 👨‍💻 All of my projects are available at [https://aakashdeep2389.github.io/portfolio/](https://aakashdeep2389.github.io/portfolio/)-->
 
